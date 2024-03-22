@@ -1,0 +1,4 @@
+ID_Land	Address_City	Address_Street	Address_House	Address_Number	Coordinate_latitude	Coordinate_longitude	TotalArea
+12	Тюмень	6			0	0	20.3
+13	Тюмень	3			0	0	12.45
+14	Тюмень	11			0	0	12

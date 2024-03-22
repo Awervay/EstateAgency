@@ -1,0 +1,114 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|d:\\\u0443\u0447\u0451\u0431\u0430\\\u0443\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0431\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0447\u0443\u0445\u0430\u0440\u0435\u0432\\\u0434\u0435\u043D\u044C 1\\estateagency\\estateagency\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\estateagency\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\estateagency\\addorupdaterealtor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\addorupdaterealtor.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\estateagency\\addorupdaterealtor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\addorupdaterealtor.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\estateagency\\addorupdateclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\addorupdateclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\estateagency\\addorupdateclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3E343A11-7826-4CEA-AA23-01D4492D9C66}|EstateAgency\\EstateAgency.csproj|solutionrelative:estateagency\\addorupdateclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddOrUpdateClient.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateClient.xaml.cs",
+              "RelativeDocumentMoniker": "EstateAgency\\AddOrUpdateClient.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateClient.xaml.cs",
+              "RelativeToolTip": "EstateAgency\\AddOrUpdateClient.xaml.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwCYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:38:46.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddOrUpdateClient.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateClient.xaml",
+              "RelativeDocumentMoniker": "EstateAgency\\AddOrUpdateClient.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateClient.xaml",
+              "RelativeToolTip": "EstateAgency\\AddOrUpdateClient.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T04:21:49.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AddOrUpdateRealtor.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateRealtor.xaml.cs",
+              "RelativeDocumentMoniker": "EstateAgency\\AddOrUpdateRealtor.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateRealtor.xaml.cs",
+              "RelativeToolTip": "EstateAgency\\AddOrUpdateRealtor.xaml.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAmwCYAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T06:45:57.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddOrUpdateRealtor.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateRealtor.xaml",
+              "RelativeDocumentMoniker": "EstateAgency\\AddOrUpdateRealtor.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\AddOrUpdateRealtor.xaml",
+              "RelativeToolTip": "EstateAgency\\AddOrUpdateRealtor.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T07:23:53.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "EstateAgency\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\MainWindow.xaml.cs",
+              "RelativeToolTip": "EstateAgency\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAKQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-22T03:46:47.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "EstateAgency\\MainWindow.xaml",
+              "ToolTip": "D:\\\u0423\u0447\u0451\u0431\u0430\\\u0423\u0447\u0435\u0431\u043D\u0430\u044F \u043F\u0440\u0430\u043A\u0442\u0438\u043A\u0430 \u043C\u0430\u0440\u0442 2024\\\u0411\u0440\u044E\u0445\u0430\u043D\u043E\u0432\u0430, \u0427\u0443\u0445\u0430\u0440\u0435\u0432\\\u0414\u0435\u043D\u044C 1\\EstateAgency\\EstateAgency\\MainWindow.xaml",
+              "RelativeToolTip": "EstateAgency\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-22T03:46:47.905Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

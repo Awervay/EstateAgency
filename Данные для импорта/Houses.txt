@@ -1,0 +1,4 @@
+ID_House	Address_City	Address_Street	Address_House	Address_Number	Coordinate_latitude	Coordinate_longitude	TotalFloors	TotalArea
+9	Тюмень	2	25		0	0	2	84.4
+10	Тюмень	14			0	0	3	130
+11	Тюмень	4			0	0	1	120
